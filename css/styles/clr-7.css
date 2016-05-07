@@ -1,0 +1,56 @@
+.but.opc, .exp:after, .edu:after, .exp .hgroup h6 span.current, .fact-list li:first-child, #toTop i, .title:before, .filter li a.active,
+.post-meta li.date, .sk-cube-grid .sk-cube, .but.brd:hover, .block-table .col-md-3:nth-child(3) .table, *::-moz-selection, .rating span  {
+    background: #ead22d;
+}
+
+
+p.short-email a, .menu li a i, .but.brd, .serv-ico span.ico, .block-price, .socials li a, .hb-list ul li span, .post a.more, .info-ico span.ico,
+.socials.round li a:hover, .but.opc:hover, .block-table .col-md-3:nth-child(3) .but:hover, .block-price span.dollar  {
+    color: #ead22d;
+}
+
+.but.brd {
+    border: 2px solid #ead22d;
+}
+
+
+
+.fact-list li:nth-child(2) {
+    background: #d8c22a;
+}
+
+
+.fact-list li:nth-child(3) {
+    background: #c6b226;
+}
+
+
+.fact-list li:last-child {
+    background: #b2a021;
+}
+
+
+
+.thumbs li a span {
+    background-color: rgba(234, 210, 45, 0.9);
+}
+
+
+.block-table .col-md-3:nth-child(3) .table::before {
+    border-bottom: 30px solid #ead22d;
+}
+
+
+.hb-list ul li span {
+    border: 1px solid #ead22d;
+}
+
+
+.filter li a.active {
+    border: 2px solid #d8c22a;
+}
+
+.block-table .col-md-3:nth-child(3) .table{
+	border: 1px solid #ead22d;
+}
+
